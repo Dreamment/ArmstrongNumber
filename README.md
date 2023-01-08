@@ -1,1 +1,1 @@
-# ArmstrongNumber
+# ArmstrongNumber in c
