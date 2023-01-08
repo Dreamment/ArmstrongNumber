@@ -50,5 +50,6 @@ int main()
 		
 		printf("Press 'y' to do again:");
 		scanf("%c",&response);
+		fflush(stdin);
 	}
 }
